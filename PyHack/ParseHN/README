@@ -1,0 +1,18 @@
+
+To run
+   cd into ParseHN
+      python parsehn.py
+      
+   Follow the prompts and have fun.
+   
+   Restart it to get realtime stats again   
+
+
+I have included all of the modules I think you will need, inside the folder (really only Beautiful Soup).  The others should be in the standard python distribution.
+
+
+
+
+
+Cheers!
+Erin 
